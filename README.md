@@ -1,4 +1,4 @@
-# BeatZ
+# BeatZ#0002
 [![HitCount](http://hits.dwyl.com/notBeatZ/notBeatZ.svg)](http://hits.dwyl.com/notBeatZ/notBeatZ)
 
 <p align="center">
