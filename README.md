@@ -4,6 +4,7 @@
   </a><br>
 </p>
 <div class="display">
+  [![HitCount](http://hits.dwyl.com/notBeatZ/notBeatZ.svg)](http://hits.dwyl.com/notBeatZ/notBeatZ)
 <h1 style="text-align: center;" align="center"> Info </h1>
   <p style="text-align: center;"align="center">○ Age: 16 <br></p>
   <p style="text-align: center;"align="center">○ Location: Minnesota, USA<br></p>
