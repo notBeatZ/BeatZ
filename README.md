@@ -7,6 +7,7 @@
 <h1 style="text-align: center;" align="center"> Info </h1>
   <p style="text-align: center;"align="center">○ Age: 16 <br></p>
   <p style="text-align: center;"align="center">○ Location: Minnesota, USA<br></p>
+  <p style="text-align: center;"align="center">○ New Github<br></p>
 
 <h1 style="text-align: center;" align="center"> Social </h1>
   <a href="https://github.com/notBeatZ"><p style="text-align: center;"align="center">○ Github<br></p></>
