@@ -1,10 +1,10 @@
 <p align="center">
   <a>
 <img src="https://cdn.discordapp.com/attachments/732298693658542141/737627972579622952/Avatar.gif" alt="Avatar" style="border-radius: 75%;">
+[![HitCount](http://hits.dwyl.com/notBeatZ/notBeatZ.svg)](http://hits.dwyl.com/notBeatZ/notBeatZ)
   </a><br>
 </p>
 <div class="display">
-  [![HitCount](http://hits.dwyl.com/notBeatZ/notBeatZ.svg)](http://hits.dwyl.com/notBeatZ/notBeatZ)
 <h1 style="text-align: center;" align="center"> Info </h1>
   <p style="text-align: center;"align="center">○ Age: 16 <br></p>
   <p style="text-align: center;"align="center">○ Location: Minnesota, USA<br></p>
