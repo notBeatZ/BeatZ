@@ -13,5 +13,3 @@
   <a href="https://github.com/notBeatZ"><p style="text-align: center;"align="center">○ Github<br></p></>
   <a href="https://instagram.com/beatzwrld"> <p style="text-align: center;"align="center">○ Instagram<br></p></>
 </div>
-- Discord BeatZ#0002
-[![HitCount](http://hits.dwyl.com/notBeatZ/notBeatZ.svg)](http://hits.dwyl.com/notBeatZ/notBeatZ)
