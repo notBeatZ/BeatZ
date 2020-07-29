@@ -1,4 +1,4 @@
-[![BeatZ github stats](https://github-readme-stats.vercel.app/api?username=notBeatZ)](https://github.com/notBeatZ/github-readme-stats)
+![BeatZ's github stats](https://github-readme-stats.vercel.app/api?username=notBeatZ&show_icons=true&theme=tokyonight)
 
 <p align="center">
   <a>
