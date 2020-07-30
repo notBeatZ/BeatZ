@@ -5,14 +5,14 @@
 
 Social Media
 
-<a href="https://discord.gg/mHZtGA5">
-  <code><img height="15" src="https://img.shields.io/discord/737849521320493096?color=33ccff&label=New%20Server&style=plastic"></code>
-</a>
 <a href="https://www.youtube.com/channel/UCy6Izg7tkqxbd02CArX3Usw?view_as=subscriber">
   <code><img  height="20" src="https://s.ytimg.com/yts/img/favicon_144-vfliLAfaB.png"></code>
 </a>
 <a href="https://www.instagram.com/beatzwrld/">
   <code><img alt="BeatZ's Instagram" height="20" src="https://www.instagram.com/static/images/ico/favicon-192.png/68d99ba29cc8.png"></code>
+<a href="https://discord.gg/mHZtGA5">
+  <code><img height="15" src="https://img.shields.io/discord/737849521320493096?color=33ccff&label=New%20Server&style=plastic"></code>
+</a>
 </a>
 <br>
 
