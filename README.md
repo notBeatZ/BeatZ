@@ -1,5 +1,7 @@
-# <img src="https://cdn.discordapp.com/attachments/738235981714423899/738241970815631380/BeatZ0002_Green.gif">
 # ![BeatZ's github stats](https://github-readme-stats.vercel.app/api?username=notBeatZ&show_icons=true&theme=tokyonight)
+<p align="center">
+  <a>
+<img src="https://cdn.discordapp.com/attachments/700502109824614450/738244153024184330/Avatar.gif" alt="Avatar" style="border-radius: 75%;">
 <p align="center">
 </p>
 <div class="display">
