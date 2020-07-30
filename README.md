@@ -2,11 +2,13 @@
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/csharp/csharp.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
+<br>
+<code><img height="20" src="https://img.shields.io/discord/737849521320493096?color=33ccff&label=New%20Server&style=plastic"></code>
 
 Social Media
 
 <a href="https://discord.gg/mHZtGA5">
-  <code><img alt="Discord Server" height="20" src="https://discord.com/assets/07dca80a102d4149e9736d4b162cff6f.ico"></code>
+  <code><img src=" alt="Discord Server" height="20" src="https://discord.com/assets/07dca80a102d4149e9736d4b162cff6f.ico"></code>
 </a>
 <a href="https://www.youtube.com/channel/UCy6Izg7tkqxbd02CArX3Usw?view_as=subscriber">
   <code><img alt="BeatZ's Discord" height="20" src="https://s.ytimg.com/yts/img/favicon_144-vfliLAfaB.png"></code>
