@@ -2,8 +2,6 @@
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/csharp/csharp.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
-<br>
-<code><img height="20" src="https://img.shields.io/discord/737849521320493096?color=33ccff&label=New%20Server&style=plastic"></code>
 
 Social Media
 
