@@ -6,7 +6,7 @@
 Social Media
 
 <a href="https://discord.gg/mHZtGA5">
-  <code><img height="20" src="https://img.shields.io/discord/737849521320493096?color=33ccff&label=New%20Server&style=plastic"></code>
+  <code><img height="15" src="https://img.shields.io/discord/737849521320493096?color=33ccff&label=New%20Server&style=plastic"></code>
 </a>
 <a href="https://www.youtube.com/channel/UCy6Izg7tkqxbd02CArX3Usw?view_as=subscriber">
   <code><img  height="20" src="https://s.ytimg.com/yts/img/favicon_144-vfliLAfaB.png"></code>
